@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BuyBuy</string>
+    <string name="main_title"></string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="description">Description</string>
+    <string name="item_name">Item Name</string>
+    <string name="price">Price</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="details">Details</string>
+    <string name="enter_item">Enter Item</string>
+    <string name="error_empty">This field cannot be empty</string>
+    <string name="price_header">Price: $</string>
+    <string name="description_header">Description:</string>
+    <string name="dollarsign">$</string>
+    <string name="item_details_title">Item Details</string>
+    <string name="ok_button">OK</string>
+    <string name="new_item_title">New Item</string>
+    <string name="edit_item_title">Edit Item</string>
+</resources>
