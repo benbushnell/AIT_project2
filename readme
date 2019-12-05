@@ -1,0 +1,6 @@
+This project is a simple mobile shopping list application. 
+
+On the app, the user can maintain a list of items to be bought and their respective prices, and a category that they belong to.
+For the purpose of the assignent, only three categories are maintained, and details of the item have to be manually entered.
+
+This project is intended to demonstrate knowledge of the use of databases in Android applications, as well as multiple activities and dialogs.
